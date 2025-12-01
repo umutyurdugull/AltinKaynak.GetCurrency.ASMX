@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\altinkaynak\\altinkaynak.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\AltinKaynak.GetCurrency.ASMX\\altinkaynak\\altinkaynak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\altinkaynak\\altinkaynak.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\AltinKaynak.GetCurrency.ASMX\\altinkaynak\\altinkaynak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\altinkaynak\\altinkaynak.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\AltinKaynak.GetCurrency.ASMX\\altinkaynak\\altinkaynak.csproj",
         "projectName": "altinkaynak",
-        "projectPath": "C:\\Users\\PC\\Desktop\\altinkaynak\\altinkaynak.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\AltinKaynak.GetCurrency.ASMX\\altinkaynak\\altinkaynak.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\altinkaynak\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\AltinKaynak.GetCurrency.ASMX\\altinkaynak\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
